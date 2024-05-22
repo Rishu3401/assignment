@@ -10,6 +10,11 @@ Demo Credentials
 You can use the above credentials to access the demo version of the application:
 These credentials are for demonstration purposes only and may not reflect actual user data. Please refrain from using personal information when testing the application.
 
+Snapshot 
+![Screenshot (1)](https://github.com/Rishu3401/assignment/assets/93258944/fe15f9ed-604d-48b2-b4ab-ed2593dc50b6)
+![Screenshot (2)](https://github.com/Rishu3401/assignment/assets/93258944/4b6f048a-7154-45b2-97ab-0d52bd39d635)
+![Screenshot (3)](https://github.com/Rishu3401/assignment/assets/93258944/00440cc7-4ef6-4cf9-b84e-123e7275e9bd)
+
 
  Overview
 This project is a web application built with React.js for the frontend and Node.js with Express.js for the backend. MongoDB is used as the database, and JSON Web Tokens (JWT) are implemented for authorization and validation. Bootstrap and custom CSS are used for styling the frontend.
