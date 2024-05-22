@@ -6,6 +6,15 @@ Email: demo@gmail.com
 
 Password:password123
 
+VIDEO
+
+https://github.com/Rishu3401/assignment/assets/93258944/74b9b71e-fd22-4435-a63e-3d3085457b38
+
+
+
+
+
+
 Demo Credentials
 You can use the above credentials to access the demo version of the application:
 These credentials are for demonstration purposes only and may not reflect actual user data. Please refrain from using personal information when testing the application.
