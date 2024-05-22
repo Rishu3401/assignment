@@ -1,5 +1,4 @@
 Demo Credentials
-[live link](rishuassignment.netlify.app){:target="_blank"}
 
 Email: demo@gmail.com
 
