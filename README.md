@@ -1,7 +1,8 @@
 Demo Credentials
+[live link](rishuassignment.netlify.app)
 
-live :rishuassignment.netlify.app
 Email: demo@gmail.com
+
 Password:password123
 
 Demo Credentials
