@@ -15,9 +15,6 @@ https://github.com/Rishu3401/assignment/assets/93258944/74b9b71e-fd22-4435-a63e-
 
 
 
-Demo Credentials
-You can use the above credentials to access the demo version of the application:
-These credentials are for demonstration purposes only and may not reflect actual user data. Please refrain from using personal information when testing the application.
 
 Snapshot 
 ![Screenshot (1)](https://github.com/Rishu3401/assignment/assets/93258944/fe15f9ed-604d-48b2-b4ab-ed2593dc50b6)
