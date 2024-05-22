@@ -1,3 +1,14 @@
+Demo Credentials
+
+live :rishuassignment.netlify.app
+Email: demo@gmail.com
+Password:password123
+
+Demo Credentials
+You can use the above credentials to access the demo version of the application:
+These credentials are for demonstration purposes only and may not reflect actual user data. Please refrain from using personal information when testing the application.
+
+
  Overview
 This project is a web application built with React.js for the frontend and Node.js with Express.js for the backend. MongoDB is used as the database, and JSON Web Tokens (JWT) are implemented for authorization and validation. Bootstrap and custom CSS are used for styling the frontend.
 
